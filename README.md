@@ -6,7 +6,8 @@
 -  Currently building modern Webpages and Apps.
 -  Learning **Artificial Intelligence and Machine learning **.
 -  Ask me about **React**, **frontend architecture**, and **design systems**.
-🛠️ Tech Stack 
+
+<h3 align="center">Tech Stack </h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite,tailwind" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vercel,netlify" /><br/>
@@ -34,4 +35,9 @@ Connect with Me
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Garrvvvvvv&theme=tokyonight" />
 </p>
-*“Turning caffeine into clean code, one commit at a time.”*
+
+<p align="center">
+  *“Turning caffeine into clean code, one commit at a time.”*
+</p>
+
+
