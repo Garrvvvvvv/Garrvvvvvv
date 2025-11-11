@@ -2,9 +2,9 @@
 <h1 align="center">Hey, I'm <span style="color:#00bcd4">Garv Noor Sandha</span></h1>
 <h3 align="center">MERN Developer | Student @ Thapar Institute of Engineering & Technology </h3>
  About Me :
- <p> Passionate about crafting responsive and interactive tools </p>.
+ <p> Passionate about crafting responsive and interactive tools </p>
  <p> Currently building modern Webpages and Apps.</p> 
- <p> Learning **Artificial Intelligence and Machine learning **.</p> 
+ <p> Learning Artificial Intelligence and Machine learning .</p> 
  <p> Ask me about frontend architecture and designs.</p>
 
 <h3 align="center">Tech Stack </h3>
