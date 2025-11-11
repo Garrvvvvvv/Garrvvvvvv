@@ -2,19 +2,16 @@
 <h1 align="center">Hey, I'm <span style="color:#00bcd4">Garv Noor Sandha</span></h1>
 <h3 align="center">MERN Developer | Student @ Thapar Institute of Engineering & Technology </h3>
  About Me
--  Passionate about crafting responsive and interactive tools. 
--  Currently building modern Webpages and Apps.
--  Learning **Artificial Intelligence and Machine learning **.
--  Ask me about **React**, **frontend architecture**, and **design systems**.
+-  <p Passionate about crafting responsive and interactive tools />. 
+-  <p Currently building modern Webpages and Apps./>
+-  <p Learning **Artificial Intelligence and Machine learning **./>
+-  <p Ask me about frontend architecture and designs./>
 
 <h3 align="center">Tech Stack </h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite,tailwind" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vercel,netlify" /><br/>
   <img src="https://skillicons.dev/icons?i=figma,linux," />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Garrvvvvvv&theme=dracula&no-frame=true&margin-w=15" />
 </p>
 📊 GitHub Stats
 <p align="center">
@@ -24,8 +21,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garrvvvvvv&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
-Connect with Me
-
+<h2  align="center">Connect with Me />
 <p align="center">
   <a href="https://www.linkedin.com/in/garvsandha/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
   <a href="mailto:garvnoor111@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
