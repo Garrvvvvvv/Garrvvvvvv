@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Garrvvvv&theme=dracula&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Garrvvvvvv&theme=dracula&no-frame=true&margin-w=15" />
 </p>
 
 --
@@ -29,12 +29,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Garrvvvv&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Garrvvvv&theme=tokyonight&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Garrvvvvvv&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Garrvvvvvv&theme=tokyonight&hide_border=false" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garrvvvv&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garrvvvvvv&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ## 🪄 Dynamic Widgets (optional)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Garrvvvv&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Garrvvvvvv&theme=tokyonight" />
 </p>
 
 ---
