@@ -9,9 +9,9 @@
 
 <h3 align="center">Tech Stack </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite,tailwind,expo,electron" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite,tailwind,electron" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vercel,netlify" /><br/>
-  <img src="https://skillicons.dev/icons?i=figma,linux," />
+  <img src="https://skillicons.dev/icons?i=figma,linux,postman" />
 </p>
 📊 GitHub Stats :
 <p align="center">
