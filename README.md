@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garrvvvvvv&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
-<h2 > align="center">Connect with Me </h2>
+<h2 align="center">Connect with Me </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/garvsandha/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
   <a href="mailto:garvnoor111@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
